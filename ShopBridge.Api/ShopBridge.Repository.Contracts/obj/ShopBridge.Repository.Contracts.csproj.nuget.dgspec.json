@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Repository.Contracts\\ShopBridge.Repository.Contracts.csproj": {}
+  },
+  "projects": {
+    "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Models\\ShopBridge.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Models\\ShopBridge.Models.csproj",
+        "projectName": "ShopBridge.Models",
+        "projectPath": "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Models\\ShopBridge.Models.csproj",
+        "packagesPath": "C:\\Users\\Sudeep\\.nuget\\packages\\",
+        "outputPath": "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sudeep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Repository.Contracts\\ShopBridge.Repository.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Repository.Contracts\\ShopBridge.Repository.Contracts.csproj",
+        "projectName": "ShopBridge.Repository.Contracts",
+        "projectPath": "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Repository.Contracts\\ShopBridge.Repository.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Sudeep\\.nuget\\packages\\",
+        "outputPath": "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Repository.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sudeep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Models\\ShopBridge.Models.csproj": {
+                "projectPath": "F:\\ToDo\\Assignments\\Project\\ShopBridge.Api\\ShopBridge.Models\\ShopBridge.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
